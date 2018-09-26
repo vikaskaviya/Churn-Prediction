@@ -13,8 +13,9 @@ This is a dataset from a telecom company, of their customers. Based on various f
 - define cost matrix for an offer company what to give a customer
 - find out confusion matrix.
 - using cost matrix and confusion matrix applied classsifers like Naive bayes and Decision trees
-- Compared classifiers using ###ROC curves, AUC curves and Cost curves
+- Compared classifiers using ROC curves, AUC curves and Cost curves
+- used different curves for model selection 
 
 
-
+## Results
 Telecom company was losing its customers provided its users' dataset. I applied various ML algorithms, ROC curve and confusion matrix to identify users who will churn and what minimum offer to give them so they don't churn and company stays in profit.
