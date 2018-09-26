@@ -7,7 +7,7 @@ This is a dataset from a telecom company, of their customers. Based on various f
 
 ### company will provide an offer to the customer who are about to churn, thus the prediction model must consider offer cost and revenue for company as a primary factor.  
 
-## Process
+## Steps
 - Reduced the features
 - split the data in test and train
 - define cost matrix for an offer company what to give a customer
