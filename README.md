@@ -18,4 +18,4 @@ This is a dataset from a telecom company, of their customers. Based on various f
 
 
 ## Results
-Telecom company was losing its customers provided its users' dataset. I applied various ML algorithms, ROC curve and confusion matrix to identify users who will churn and what minimum offer to give them so they don't churn and company stays in profit.
+Reduced the average cost per person to  rs.100.95 from rs. 169.23 using ROC,AUC,Cost curves.   
