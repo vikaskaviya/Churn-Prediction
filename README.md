@@ -18,4 +18,4 @@ This is a dataset from a telecom company, of their customers. Based on various f
 
 
 ## Results
-Reduced the average cost per person to  rs.100.95 from rs. 169.23 using ROC,AUC,Cost curves.   
+Reduced the average cost per person to from $169.23 to $100.95 using ROC,AUC,Cost curves.   
